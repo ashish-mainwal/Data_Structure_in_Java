@@ -3,7 +3,7 @@ package binarySearchLeetCodeQuestions;
 public class alphaCeil {
     public static void main(String[] args) {
         char[] arr = {'b','c','d','e','x'};
-        System.out.println(findAlphaCeil(arr,'w'));
+        System.out.println(findAlphaCeil(arr,'f'));
     }
     static char findAlphaCeil(char[] arr , char target){
         int start = 0;

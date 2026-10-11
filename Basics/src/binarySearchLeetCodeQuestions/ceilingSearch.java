@@ -3,7 +3,7 @@ package binarySearchLeetCodeQuestions;
 public class ceilingSearch {
     static void main(String[] args) {
         int[] arr = {2,3,5,9,14,16,18};
-        System.out.print(cEil(arr,1));
+        System.out.print(cEil(arr,15));
     }
 
     static int cEil(int[] arr , int target){
